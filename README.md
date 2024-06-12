@@ -13,3 +13,4 @@ For more details, please refer to the Readme.html or Readme.ipynb file.
 2. 模型权重，请按照指定路径存放。也可以下载  Readme.html / Readme.ipynb 中的 pkl 和 parquet 文件，快速完成推理（直接运行 Step012 即可）
 
    - en: Please store model weights at the designated path. Alternatively, you can also download the `pkl` and `parquet` files from `Readme.html` / `Readme.ipynb` for quick inference (simply run `Step012` directly).
+
