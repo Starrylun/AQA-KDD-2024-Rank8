@@ -1,5 +1,5 @@
-# AQA-KDD-2024-Rank9
-Store the code for the competition "rank9 (AQA-KDD-2024)"
+# AQA-KDD-2024-Rank8
+Store the code for the competition "rank8 (AQA-KDD-2024)"
 
 
 # 详细信息请查看 Readme.html 或者 Readme.ipynb 文件
